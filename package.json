@@ -1,6 +1,6 @@
 {
   "name": "opencode2dsh",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "DSH plugin \u2014 free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. \u5728 DSH \u4e2d\u4f7f\u7528 OpenCode Zen \u514d\u8d39\u6a21\u578b\uff0c\u65e0\u9700 API key",
   "main": "src/index.ts",
   "scripts": {
